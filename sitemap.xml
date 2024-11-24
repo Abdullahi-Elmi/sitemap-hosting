@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://docs.github.com/en</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/planning-and-tracking-work-for-your-team-or-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/adding-sub-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/editing-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/viewing-all-of-your-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/browsing-sub-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-a-branch-for-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/about-slash-commands</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/pinning-an-issue-to-your-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/marking-issues-or-pull-requests-as-a-duplicate</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/transferring-an-issue-to-another-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/deleting-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/finding-your-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/sharing-project-updates</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/copying-an-existing-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/migrating-from-projects-classic</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/converting-draft-issues-to-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/editing-items-in-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/archiving-items-from-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-text-and-number-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-date-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-single-select-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-iteration-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-parent-issue-and-sub-issue-progress-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/renaming-custom-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/deleting-custom-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-table-layout</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-board-layout</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-roadmap-layout</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/managing-your-views</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-built-in-automations</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/archiving-items-automatically</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project/about-insights-for-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project/creating-charts</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project/configuring-charts</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-visibility-of-your-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/closing-and-deleting-your-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/adding-your-project-to-a-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/adding-your-project-to-a-team</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/exporting-your-projects-data</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/associating-milestones-with-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/filtering-issues-and-pull-requests-by-milestone</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/viewing-your-milestones-progress</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/guides</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/video-transcripts/transcript-using-projects-for-feature-planning</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/contributing</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/site-policy/github-terms/github-terms-of-service</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/migrations</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/account-and-profile</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/authentication</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/billing</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/site-policy</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/codespaces</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/discussions</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/copilot</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/refactoring-code-with-github-copilot</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/actions</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/packages</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pages</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/supply-chain-security</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/security-advisories</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/dependabot</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/code-scanning</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/secret-scanning</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/github-cli</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/using-github/github-mobile</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/desktop</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/search-github</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/organizations</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/securing-your-organization</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/enterprise-cloud@latest/admin</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/rest</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/webhooks</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/copilot/building-copilot-extensions</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/github-models</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/sponsors</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/education</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/support</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/contributing</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/getting-started-with-git/set-up-git</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/authentication/connecting-to-github-with-ssh</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/creating-and-managing-repositories</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/about-your-personal-dashboard</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/site-policy/github-terms/github-community-guidelines</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/using-github/communicating-on-github</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/disabling-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/writing-on-github</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/creating-and-managing-repositories/creating-an-issues-only-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/using-github/communicating-on-github#which-discussion-tool-should-i-use</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#creating-a-label</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests#filtering-by-issue-type</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects#filtering-by-issue-type</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#assigning-a-project-from-within-an-issue-or-pull-request</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/editing-an-issue#adding-or-changing-the-issue-type</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/github-cli/github-cli/about-github-cli</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema#keys</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/code-security/code-scanning/managing-code-scanning-alerts/tracking-code-scanning-alerts-in-issues-using-task-lists</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/learning-about-github/access-permissions-on-github</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions#reviewing-repositories-that-youre-watching</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/?tool=cli</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/?tool=webui</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-pull-request-reviews-before-merging</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/viewing-all-of-your-issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/accessibility/keyboard-shortcuts#issue-and-pull-request-lists</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/about-saved-replies</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword#linking-a-pull-request-to-an-issue-using-a-keyword</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/organizations/managing-organization-settings/allowing-people-to-delete-issues-in-your-organization</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#showing-and-hiding-fields</loc>
+</url>
+<url>
+  <loc></loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#creating-draft-issues</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#grouping-by-field-values-in-table-layout</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#changing-the-project-layout</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/?tool=curl</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/generating-an-installation-access-token-for-a-github-app</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/guides/forming-calls-with-graphql#working-with-variables</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/guides/forming-calls-with-graphql#about-queries</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/guides/forming-calls-with-graphql#about-mutations</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#addassigneestoassignable</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#removeassigneesfromassignable</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#addlabelstolabelable</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#removelabelsfromlabelable</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#updateissue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#updatepullrequest</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/graphql/reference/mutations#transferissue</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/webhooks-and-events/webhooks/about-webhooks</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/webhooks-and-events/webhooks/webhook-events-and-payloads#projects_v2_item</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/actions/quickstart</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps/creating-github-apps/guides/making-authenticated-api-requests-with-a-github-app-in-a-github-actions-workflow</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps/creating-github-apps/setting-up-a-github-app/creating-a-github-app</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps/maintaining-github-apps/editing-a-github-apps-permissions</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps/maintaining-github-apps/installing-github-apps#installing-your-private-github-app-on-your-repository</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/rest/apps#get-an-app</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/actions/learn-github-actions/variables#defining-configuration-variables-for-multiple-workflows</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/managing-private-keys-for-github-apps</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/actions/security-guides/encrypted-secrets</loc>
+</url>
+<url>
+  <loc>http://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#bulk-adding-issues-and-pull-requests</loc>
+</url>
+</urlset>
