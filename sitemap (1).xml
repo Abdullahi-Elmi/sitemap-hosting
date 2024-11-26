@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://help.zenhub.com/support/home</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000361405</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546911</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010778-what-is-zenhub-an-intro-to-zenhub-in-github</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000553376</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000650569-connecting-and-disconnecting-your-github-account-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000035792-inviting-your-team-to-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000497224-creating-your-first-team-workspace</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000507578-installing-the-zenhub-extension-for-cloud</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010343-accessing-zenhub-on-web-and-mobile</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000067377</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010338-agile-concepts-in-github-and-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000458338-github-vs-native-zenhub-features</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000590721</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000705067-streamlining-issue-creation-in-zenhub-with-ai-capabilities</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000591362</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000708889-notion</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000713783-integrating-and-displaying-figma-miro-and-loom-files-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000726232-integrating-slack-with-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000735438-ai-sprint-summaries-for-jira</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000735439-ai-suggested-labels-for-jira</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000591703</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000711397-daily-feed</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000359263</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546917</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000687887-introduction-to-issues-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000487942-getting-started-with-issues-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000500733-getting-started-with-epics</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010341-an-intro-to-epics-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000031151-when-to-use-checklists-issues-and-epics</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546918</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010354-styling-comments-using-the-markdown-editor-or-markdown-syntax</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010349-creating-github-issue-dependencies-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000185124-creating-the-same-label-set-in-multiple-repos-at-once</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000480398-creating-github-and-or-zenhub-issue-labels</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000495285-setting-issues-as-high-priority</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546919</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546921</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000480335-deleting-github-issues</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000011149-common-getting-started-questions</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000680392-faq-for-epics</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000590518</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000479462-understanding-how-zenhub-board-filters-work</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000497278-getting-started-with-the-zenhub-board</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000617539-zenhub-board-tips</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000498508--filtering-the-board</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000590520</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000616465-getting-started-with-zenhub-sprints</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000365193</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000578970</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000504792-workspaces-overview</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010346-creating-a-multi-repo-workspace</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000206560-customizing-workspace-pipelines</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000578971</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000495236-how-workspaces-can-be-used-by-your-team</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000495219-navigating-workspaces</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000490533-remove-split-and-delete-workspaces</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000455864-optimizing-workspaces</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000709080-workspace-permissions</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000156529</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000584210-getting-started-with-workflows-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000618772-connect-your-workspaces-with-automated-workflows</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000590521</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000073554-creating-and-naming-zenhub-workspaces-zenhub-on-premise-only-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000484539-issue-placement-when-adding-repos-to-a-workspace-on-premises-customers-only-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000359264</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000561139</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000539465-an-introduction-to-zenhub-roadmaps</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000539833-how-each-member-of-the-team-can-use-zenhub-roadmaps</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000575465-roadmaps-options-and-customization</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000576083</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000711672-sprint-report-insights-and-recommendations-progress-tracker-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546922</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000620555-planning-poker-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010347-estimating-work-using-story-points</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546924</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010360-when-to-use-milestones-or-create-a-release-report-for-on-premise-organizations-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010340-the-importance-of-a-product-backlog</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010351-api-endpoints-and-use-cases</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000472017-common-questions-on-managing-projects-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000713889-best-practices-for-great-user-story-writing</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546923</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010815-planning-and-executing-using-github-milestones</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000028474-key-tips-for-tracking-sprint-progress</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000037275-tips-to-guide-sprint-planning-retro-meetings</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000042876</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000064892</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010358-understanding-the-velocity-report</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010356-sprint-report-track-sprint-progress-with-burndown-charts</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010359-plan-long-term-projects-with-release-reports</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000564672</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000038850-reading-cumulative-flow-diagrams</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000300345-use-control-charts-to-review-issue-cycle-lead-time</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000700928-github-productivity-insights</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000713587-sprint-review</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546925</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000481740-common-questions-when-getting-started-with-releases</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000469846-ideal-stale-off-track-release-examples</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000469850-example-cumulative-flow-diagrams-to-learn-from</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000479014-how-throughput-and-cycle-lead-time-are-read-together</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000481751-using-the-velocity-chart-to-track-sprint-disruptions</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000578925</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000480389-exporting-zenhub-data</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000042879</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546930</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000551232-experiencing-an-issue-with-zenhub-start-here</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000067453</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000223305--this-workspace-cannot-be-loaded-error</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010362--board-cannot-be-loaded-error</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010363--zenhub-cannot-be-loaded-error</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010365-my-organization-isn-t-appearing-in-the-web-app</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010364-can-t-drag-and-drop-issues</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000067454</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000470724-force-an-update-of-the-zenhub-extension</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010369-granting-third-party-access-in-github-for-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000457957-troubleshooting-in-zenhub-gathering-info-in-the-console-network-tab</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000076119</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000117578</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030616-managing-zenhub-payments-and-becoming-an-admin</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030607-purchasing-and-managing-a-zenhub-plan</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030608-adding-and-removing-licenses</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000032454-paying-for-zenhub-via-the-github-marketplace</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030617-viewing-your-zenhub-invoices</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000117699</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030597-available-plans-and-more-about-the-free-trial</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000011152-pricing-plans</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000659158-using-zenhub-for-open-source-projects</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000359265</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546913</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000636055-personal-vs-corporate-github-zenhub-access-on-premise-only-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000636925-re-authenticating-zenhub-if-your-team-is-using-saml-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546927</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000037261-github-permissions-and-access-in-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546928</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000011150-permissions-privacy</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000546929</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010366-moving-a-repo-cross-organization-or-to-a-new-organization</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010355-navigating-zenhub-using-shortcuts</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000360065</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000549328</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000480395-requesting-a-zenhub-dpa-gdpr-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000582242</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000650432-using-zenhub-with-github-ip-restrictions</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000372892</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000547074</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010370-upgrade-guide</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010371-backup-guide</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010372-maintenance-guide</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000064896</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000070416-running-a-usage-report</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010374-api-rate-limiting</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000011155-zenhub-enterprise-faq</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000558385-billing-for-additional-licenses-in-zenhub-enterprise</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000559760-license-governance-in-zenhub-enterprise</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000547075</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000009734-zenhub-enterprise-command-line-tools</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000577404</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000623163-deploying-and-managing</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/43000372891</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000590515</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000638400-zenhub%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000638416-zenhub-sprints%E3%81%A8%E3%81%AF-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000639649-zenhub-dark-mode</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000704872-github-issue-visibility</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000726244-smart-pipelines</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000495236-workspace-use-cases</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010346-connecting-multiple-repos-into-one-board-view</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010359</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000074624-create-multiple-new-issue-templates-in-a-workspace</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000705233-saved-views</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000709550-zenhub-file-uploads</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000729499-csv-importer-for-jira-users-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000480398-creating-github-issue-labels</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010354-styling-comments-with-markdown</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000615530-zenhub-issue-and-pr-connections</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010341-an-intro-to-zenhub-epics</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000650569-connecting-your-github-account-to-zenhub</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000687887-issues-getting-started</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000028474</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010354</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010349</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000615530-zenhub-s-issue-and-pr-connections</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010356</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010346</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000185124-create-the-same-label-set-in-multiple-repos-at-once</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000206560-customizing-board-pipelines</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000455864</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000484539-issue-placement-when-adding-repos-to-a-workspace-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000729794-creating-a-read-only-project-board-powered-by-zenhub-and-github-actions</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000504792-setting-up-navigating-your-workspace-beta-users-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000037261</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000539465</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010358-track-team-velocity-sprint-over-sprint</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010358</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000031151</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010360</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/login</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000481740-using-epics-milestones-and-releases-to-track-projects</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000483134-how-burndown-and-velocity-compliment-each-other</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010341</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000074624</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000038850</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000469850</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000300345</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000459220-not-seeing-real-time-issue-updates-check-your-webhooks</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000455791-workspace-cannot-be-created-lacking-permissions-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000035816-error-when-trying-to-view-issues-in-the-board</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010367-502-bad-gateway</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000461554-disconnecting-from-the-board-continuously</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000067453/page/2</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000457957</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030615-cancelling-your-zenhub-subscription</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000472917-updating-your-payment-details</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030616</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010369</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000030616-permissions-needed-to-manage-payments-and-becoming-an-admin</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000010362</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000573846-ubuntu-14-04%E2%86%9216-04-upgrade-for-zenhub-enterprise-2-42</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000559760</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000558385</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/articles/43000471889-troubleshooting-invalid-authentication-token-api-</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.zenhub.com/support/solutions/folders/43000067453/page/1</loc>
+  <lastmod>2024-11-26T10:34:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
